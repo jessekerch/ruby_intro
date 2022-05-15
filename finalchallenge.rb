@@ -1,7 +1,8 @@
 # written by Jesse Kercheval
 # May 13, 2022 
 # Final challenge in Intro to Ruby Programming exercises
-#Launchschool
+# basically it's exercise 11 but with multiple contacts
+# Launchschool
 
 
 contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"],
