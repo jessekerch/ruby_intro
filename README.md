@@ -1,5 +1,5 @@
-# launchschool_may_22
-Launchschool exercises Ruby May 22
+# Intro to Ruby programming
+Exercises from Intro to Ruby, May 22
 
 Jesse Kercheval
 jesse.kercheval@gmail.com
